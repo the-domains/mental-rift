@@ -12,3 +12,8 @@ color:
     - '#B64926'
     - '#8E2800'
 name: Mental Rift
+navigation:
+  - id: 'https://www.instagram.com/riftdweller/'
+    url: 'https://www.instagram.com/riftdweller/'
+    name: Instagram
+    type: external
