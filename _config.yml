@@ -1,15 +1,3 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 color:
   saturation: 0.7341667313594371
   brandStrength: 0.6596905561164021
@@ -21,11 +9,23 @@ color:
     - '#B64926'
     - '#8E2800'
   lightness: 0.2898388751782477
-typography_spectrum: 0.5461869
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 navigation:
   - id: 'https://www.instagram.com/riftdweller/'
     url: 'https://www.instagram.com/riftdweller/'
     name: Instagram
     type: external
 layout_spectrum: 1
+typography_spectrum: 0.5461869
 name: Mental Rift
