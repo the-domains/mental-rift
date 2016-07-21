@@ -26,6 +26,10 @@ navigation:
     url: 'https://www.instagram.com/riftdweller/'
     name: Instagram
     type: external
+  - id: 'https://500px.com/riftdweller'
+    url: 'https://500px.com/riftdweller'
+    name: 500 px
+    type: external
 layout_spectrum: 1
 typography_spectrum: 0.5461869
 name: riftDXB
