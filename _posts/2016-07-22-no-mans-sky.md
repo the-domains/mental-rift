@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-22T12:36:08.124Z'
+datePublished: '2016-07-22T12:42:13.914Z'
 sourcePath: _posts/2016-07-22-no-mans-sky.md
 isBasedOnUrl: 'http://www.no-mans-sky.com/'
 author: []
 via: {}
-dateModified: '2016-07-22T12:36:07.422Z'
+dateModified: '2016-07-22T12:42:13.200Z'
 title: ''
 publisher: {}
 description: No Man’s Sky
