@@ -28,6 +28,10 @@ navigation:
     url: 'https://soundcloud.com/ahmed-al-numairy'
     name: Soundcloud
     type: external
+  - id: 90c0eb07-3b9b-43ee-8f94-ffede63dabae
+    url: 2016-07-22-mac-rumors-apple-mac-ios-rumors-and-news-you-care-about.html
+    name: <3 Links
+    type: content
 collections:
   - index:
       path: /
