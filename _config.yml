@@ -1,26 +1,20 @@
+typography_spectrum: 0.5461869
 color:
-  saturation: 0.1445364565588534
-  brandStrength: 0.49897556751966476
-  rhythmicContrast: 0.9946416134480387
+  saturation: 0.7341667313594371
+  brandStrength: 0.6596905561164021
+  rhythmicContrast: 0.009355993242934346
   brandColors:
-    - '#73603D'
-    - '#BF8A49'
-    - '#F2CA80'
-    - '#5E5A59'
-    - '#0D0D0D'
-  lightness: 0.34965017111971974
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  lightness: 0.2898388751782477
+layout_spectrum: 1
+author:
+  name: Riftdweller
+  email: riftdweller@gmail.com
+name: riftDXB
 navigation:
   - id: 'https://www.instagram.com/riftdweller/'
     url: 'https://www.instagram.com/riftdweller/'
@@ -34,6 +28,15 @@ navigation:
     url: 'https://soundcloud.com/ahmed-al-numairy'
     name: Soundcloud
     type: external
-layout_spectrum: 0.12591122114099562
-typography_spectrum: 0.20912387780845165
-name: riftDXB
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
