@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-07-22T15:34:12.612Z'
+datePublished: '2016-07-22T15:39:01.658Z'
 author: []
 via: {}
-dateModified: '2016-07-22T15:34:12.026Z'
+dateModified: '2016-07-22T15:39:01.048Z'
 title: 'Mac Rumors: Apple Mac iOS Rumors and News You Care About'
 publisher: {}
 description: 'Links to my favorite spots on the internet:-'
