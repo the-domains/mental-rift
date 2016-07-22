@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[riftDXB]]></title>
         <description><![CDATA[riftDXB]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://riftdxb.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 21:07:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jul 2016 12:09:01 GMT</lastBuildDate>
+        <atom:link href="http://riftdxb.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[2A03] Business Man (Original) by potato-tan]]></title>
+            <description><![CDATA[<article><h1>[2A03] Business Man (Original) by potato-tan</h1><p>Very catchy chip tune reminiscent of the 8 bit days.</p></article>]]></description>
+            <link>https://soundcloud.com/potato-tan/2a03-business-man-original</link>
+            <guid isPermaLink="false">ac47174a-0c17-4882-b7a5-6422e73f93e1</guid>
+            <pubDate>Fri, 22 Jul 2016 12:09:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[riftDXB]]></title>
-            <description><![CDATA[<article><h1>riftDXB</h1><p>Dear world,</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ea4c6e1f4b275a0cbb4f201ee9816809/croprotate.jpg?cropheight=3969&cropwidth=5952&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1abd2900-ffaa-4d41-a197-9dba5e6a9756.jpg&x=0&y=0"></article>]]></description>
+            <description><![CDATA[<article><h1>riftDXB</h1><p>Dear world,</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7609ffc30bdd012b6709f934902c44ee80e8e8d2.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1abd2900-ffaa-4d41-a197-9dba5e6a9756.jpg</link>
             <guid isPermaLink="false">2d0659f8-28f0-467d-893a-3e56c4fa161f</guid>
             <pubDate>Thu, 21 Jul 2016 21:07:44 GMT</pubDate>
