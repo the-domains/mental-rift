@@ -4,8 +4,15 @@
         <description><![CDATA[riftDXB]]></description>
         <link>http://riftdxb.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 15:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 15:47:51 GMT</lastBuildDate>
         <atom:link href="http://riftdxb.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[riftDXB]]></title>
+            <description><![CDATA[<article><h1>riftDXB</h1><p>Welcome to my small corner in the Internet. I hope you enjoy your stay.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8b74a7b00d3a4d16b976b6a0a14e3d63/croprotate.jpg?cropheight=3969&cropwidth=5952&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc0c214b6-c3a2-4051-b47b-b9080f937e8b.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0c214b6-c3a2-4051-b47b-b9080f937e8b.jpg</link>
+            <guid isPermaLink="false">744134af-a042-4d6e-9381-85e3dc8b1d29</guid>
+            <pubDate>Fri, 22 Jul 2016 15:47:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No Man's Sky]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e58b8df8-986e-4458-a953-7ffda50585cd.png">]]></description>
