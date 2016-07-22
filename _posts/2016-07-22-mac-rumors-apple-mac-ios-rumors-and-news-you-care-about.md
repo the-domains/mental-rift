@@ -1,17 +1,15 @@
 ---
-datePublished: '2016-07-22T15:33:42.282Z'
-isBasedOnUrl: 'http://www.macrumors.com/'
+datePublished: '2016-07-22T15:34:12.612Z'
 author: []
 via: {}
-dateModified: '2016-07-22T12:22:33.645Z'
+dateModified: '2016-07-22T15:34:12.026Z'
 title: 'Mac Rumors: Apple Mac iOS Rumors and News You Care About'
 publisher: {}
 description: 'Links to my favorite spots on the internet:-'
-starred: false
 sourcePath: _posts/2016-07-22-mac-rumors-apple-mac-ios-rumors-and-news-you-care-about.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: mac-rumors-apple-mac-ios-rumors-and-news-you-care-about/index.html
 _type: MediaObject
 
 ---
