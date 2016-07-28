@@ -16,17 +16,14 @@ author:
   email: riftdweller@gmail.com
 name: riftDXB
 navigation:
-  - id: 'https://www.instagram.com/riftdweller/'
+  - name: Instagram
     url: 'https://www.instagram.com/riftdweller/'
-    name: Instagram
     type: external
-  - id: 'https://500px.com/riftdweller'
+  - name: 500 px
     url: 'https://500px.com/riftdweller'
-    name: 500 px
     type: external
-  - id: 'https://soundcloud.com/ahmed-al-numairy'
+  - name: Soundcloud
     url: 'https://soundcloud.com/ahmed-al-numairy'
-    name: Soundcloud
     type: external
 collections:
   - index:
@@ -40,3 +37,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+description: I love pepsi
