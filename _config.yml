@@ -22,9 +22,6 @@ navigation:
   - name: 500 px
     url: 'https://500px.com/riftdweller'
     type: external
-  - name: Soundcloud
-    url: 'https://soundcloud.com/ahmed-al-numairy'
-    type: external
 collections:
   - index:
       path: /
