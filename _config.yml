@@ -19,9 +19,6 @@ navigation:
   - name: Instagram
     url: 'https://www.instagram.com/riftdweller/'
     type: external
-  - name: 500 px
-    url: 'https://500px.com/riftdweller'
-    type: external
 collections:
   - index:
       path: /
