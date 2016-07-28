@@ -15,10 +15,7 @@ author:
   name: Riftdweller
   email: riftdweller@gmail.com
 name: riftDXB
-navigation:
-  - name: Instagram
-    url: 'https://www.instagram.com/riftdweller/'
-    type: external
+navigation: []
 collections:
   - index:
       path: /
