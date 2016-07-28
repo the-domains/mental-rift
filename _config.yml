@@ -1,16 +1,16 @@
-typography_spectrum: 0.5461869
+typography_spectrum: 0.3854694541078061
 color:
-  saturation: 0.7341667313594371
-  brandStrength: 0.6596905561164021
-  rhythmicContrast: 0.009355993242934346
+  saturation: 0.16221912996843457
+  brandStrength: 0.09316793107427657
+  rhythmicContrast: 0.9474109371658415
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-  lightness: 0.2898388751782477
-layout_spectrum: 1
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  lightness: 0.689029760658741
+layout_spectrum: 0.41294473386369646
 author:
   name: Riftdweller
   email: riftdweller@gmail.com
