@@ -4,7 +4,7 @@
         <description><![CDATA[riftDXB]]></description>
         <link>http://riftdxb.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 21:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 21:05:08 GMT</lastBuildDate>
         <atom:link href="http://riftdxb.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[riftDXB]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0c214b6-c3a2-4051-b47b-b9080f937e8b.jpg</link>
             <guid isPermaLink="false">744134af-a042-4d6e-9381-85e3dc8b1d29</guid>
             <pubDate>Thu, 28 Jul 2016 21:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[2A03] Business Man (Original) by potato-tan]]></title>
+            <description><![CDATA[<article><h1>[2A03] Business Man (Original) by potato-tan</h1><p>Very catchy chip tune reminiscent of the 8 bit days.</p></article>]]></description>
+            <link>https://soundcloud.com/potato-tan/2a03-business-man-original</link>
+            <guid isPermaLink="false">ac47174a-0c17-4882-b7a5-6422e73f93e1</guid>
+            <pubDate>Thu, 28 Jul 2016 21:05:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No Man's Sky]]></title>
@@ -40,13 +47,6 @@
             <link>https://soundcloud.com/calyxteebee/calyx-teebee-long-gone</link>
             <guid isPermaLink="false">8374753e-6db9-46c0-b5e9-917c86bd8169</guid>
             <pubDate>Sun, 24 Jul 2016 20:40:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[2A03] Business Man (Original) by potato-tan]]></title>
-            <description><![CDATA[<article><h1>[2A03] Business Man (Original) by potato-tan</h1><p>Very catchy chip tune reminiscent of the 8 bit days.</p></article>]]></description>
-            <link>https://soundcloud.com/potato-tan/2a03-business-man-original</link>
-            <guid isPermaLink="false">ac47174a-0c17-4882-b7a5-6422e73f93e1</guid>
-            <pubDate>Fri, 22 Jul 2016 12:09:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
