@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-30T14:21:17.609Z'
+datePublished: '2016-07-31T20:12:51.401Z'
 sourcePath: >-
   _posts/2016-07-30-shot-with-leica-mp-elmarit-28-mm-asph-pre-2016-on-kodak-ek.md
 author: []
 via: {}
-dateModified: '2016-07-30T14:21:16.870Z'
+dateModified: '2016-07-31T20:12:50.835Z'
 title: ''
 publisher:
   name: Riftdweller
@@ -23,6 +23,8 @@ _type: Article
 A day at the beach. July 30 2016
 
 **Cover Shot with Leica MP + Elmarit 28 mm ASPH pre 2016 on Kodak Ektar 100**
+
+click image for full post.
 
 Living in the UAE, you tend to shy away from the sun when it becomes hot. The summers can be unbearable. The humidity will remove the fresh feeling you get post shower in an instant. Everyone tends to keep outdoor walking to a minimum. On the other hand, the autumn and winter are blissful. I know you chuckle at the idea that we have 4 seasons. It is true our weather has two seasons, summer and hell. Jokes aside, from October until Late April the weather is simply amazing. It can get a bit cold considering the population has to wither temperatures of high forties or even low fifties.
 
