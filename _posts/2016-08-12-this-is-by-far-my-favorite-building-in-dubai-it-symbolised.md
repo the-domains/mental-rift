@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-08-12T13:19:01.444Z'
+datePublished: '2016-08-12T13:27:42.265Z'
+sourcePath: >-
+  _posts/2016-08-12-this-is-by-far-my-favorite-building-in-dubai-it-symbolised.md
 author: []
 via: {}
-dateModified: '2016-08-12T12:54:54.894Z'
+dateModified: '2016-08-12T13:27:41.603Z'
 title: ''
 publisher: {}
 description: >-
@@ -15,8 +17,6 @@ description: >-
   the background, just this magnificent building. It was featured in Dubai News
   on the old school Dubai TV.
 starred: false
-sourcePath: >-
-  _posts/2016-08-12-this-is-by-far-my-favorite-building-in-dubai-it-symbolised.md
 inFeed: true
 hasPage: true
 inNav: false
