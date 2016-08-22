@@ -1,17 +1,17 @@
 ---
-description: >-
-  The unsung heroes of our ever expanding urban environment. Hidden and
-  unnoticed yet their actions translate what was once... 
-dateModified: '2016-08-22T17:57:13.123Z'
-datePublished: '2016-08-22T18:00:10.235Z'
-title: ''
-author: []
-publisher:
-  name: Riftdweller
-via: {}
-starred: false
+datePublished: '2016-08-22T18:18:19.616Z'
 sourcePath: >-
   _posts/2016-08-22-the-unsung-heroes-of-our-ever-expanding-urban-environment-h.md
+author: []
+via: {}
+dateModified: '2016-08-22T18:18:19.039Z'
+title: ''
+publisher:
+  name: Riftdweller
+description: >-
+  The unsung heroes of our ever expanding urban environment. Hidden and
+  unnoticed yet their actions translate what was once...
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
